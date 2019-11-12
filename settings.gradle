@@ -1,0 +1,2 @@
+include ':app', 'android-image-share-core'
+rootProject.name='Android Image Share Library'
